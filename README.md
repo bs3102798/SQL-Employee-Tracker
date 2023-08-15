@@ -6,7 +6,7 @@ My modivation for creating this was to be able to create an interactive terminal
 - cfonts
 -  chalk
 -   console.table
--     quirer
+- inquirer
 - mysql2
 # Demonstration video
 
