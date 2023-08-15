@@ -2,12 +2,12 @@
 My modivation for creating this was to be able to create an interactive terminal while also 
 
 # Installation
-dependencies
-        cfonts
-        chalk
-        console.table
-        inquirer
-        mysql2
+- dependencies
+        - cfonts
+        - chalk
+        - console.table
+        - inquirer
+        - mysql2
 # Demonstration video
 
 # How to run 
