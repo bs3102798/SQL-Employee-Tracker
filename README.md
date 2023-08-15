@@ -3,11 +3,11 @@ My modivation for creating this was to be able to create an interactive terminal
 
 # Installation
 - dependencies
-        - cfonts
-        - chalk
-        - console.table
-        - inquirer
-        - mysql2
+- cfonts
+-  chalk
+-   console.table
+-     quirer
+- mysql2
 # Demonstration video
 
 # How to run 
